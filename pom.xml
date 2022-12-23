@@ -16,8 +16,6 @@
         <module>hmf-common</module>
         <module>purple</module>
         <module>sage</module>
-        <module>sv-prep</module>
-        <module>sv-tools</module>
         <module>virus-interpreter</module>
     </modules>
 
